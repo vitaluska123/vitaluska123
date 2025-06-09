@@ -69,12 +69,6 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vitaluska123/vitaluska123/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-## 📈 Активность в репозиториях
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=vitaluska123&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</div>
-
 ## 🤝 Давайте подключимся!
 
 <div align="center">
