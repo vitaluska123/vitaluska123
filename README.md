@@ -66,7 +66,7 @@
 ## 🐍 Активность
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vitaluska123/vitaluska123/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vitaluska123/vitaluska123/output/snake.svg" />
 </div>
 
 ## 🤝 Давайте подключимся!
