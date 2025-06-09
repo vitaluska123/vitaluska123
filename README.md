@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Виталий&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=gradient)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Strunder&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=gradient)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Разработка+сайтов+и+приложений!;Комплексный+подход!;Оптимальные+решения!" alt="Typing SVG" />
